@@ -1,0 +1,21 @@
+p {
+    color:red;
+    font-family: sans-serif;
+}
+h1 {
+    color:aqua;
+    text-align: center
+}
+h2 {
+    color: brown;
+    font-style: italic;
+}
+h3 {
+    color: chocolate;
+}
+ul {
+    background-color: darkblue;
+}
+li {
+    color: darkgreen;
+}
